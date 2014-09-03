@@ -5,7 +5,7 @@ docker-docs
 
 ## Images
 
-### optimize
+#### optimize
 - [Making Docker Images Smaller](http://www.centurylinklabs.com/optimizing-docker-images/)
 
 ## Tools
